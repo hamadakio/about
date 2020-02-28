@@ -1,5 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit');
+
 body{
+    font-family: 'Kanit';
     text-align: center;
     color: white;
     background-color: black;
 }
+
+#icones{
+    padding: 10px;    
+    width: 32px;
+    height: 32px;
+}
+
