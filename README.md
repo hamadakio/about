@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Alexander Akio Hamada
 
 You can use the [editor on GitHub](https://github.com/hamadakio/akiohamada/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
